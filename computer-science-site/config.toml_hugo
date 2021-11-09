@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us | zh-CN'
+title = 'My New Hugo Site'
+
+theme='Annie'
+
+path= 'search.json'
+zipPath= 'search.zip'
+versionPath= 'searchVersion.txt'
+field= 'post'
+
